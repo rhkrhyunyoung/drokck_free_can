@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../datasets"
+		},
+		{
+			"path": "../../../box_dataset"
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/rim/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/rim/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		],
+		"ros.distro": "humble"
+	}
+}
